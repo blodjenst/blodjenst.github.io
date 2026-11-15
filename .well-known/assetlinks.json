@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.blodjenst.twa",
-        "sha256_cert_fingerprints": ["B0:A0:16:3B:0E:E0:C4:B1:B7:E8:60:E4:5D:4E:AC:3C:C4:E7:C8:05:3F:14:26:39:70:05:D3:FB:20:FB:A0:1D"]
+        "sha256_cert_fingerprints": ["9E:28:E2:79:37:C0:7E:8E:55:7C:5E:D4:84:7B:DE:33:01:47:53:9A:CC:DB:E9:BA:A2:9A:54:9A:41:F7:73:F9"]
       }
     }]
